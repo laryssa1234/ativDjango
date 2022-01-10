@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\20181174010018\python\projeto1\myvenv"
+VIRTUAL_ENV="C:\Users\20181174010018\Documents\GitHub\ativDjango\projeto1\myvenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
